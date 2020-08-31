@@ -9,4 +9,4 @@ Geometry processing on 3D point clouds for medial axis estimation.
 * Medial axis point estimation using maximal shrinking-ball algorithm (Ma, Bae, Choi, 2012)
 * Medial axis topology estimation using spheremesh decomposition
 
-![alt text](https://github.com/martinmclaren/3D-skeletons/blob/master/preview/ex.png?raw=true)
+![alt text](https://github.com/martinmclaren/3D-skeletons/blob/master/preview/bunny_MA.png?raw=true)
